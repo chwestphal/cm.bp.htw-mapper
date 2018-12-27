@@ -82,4 +82,4 @@ MIT License
 [Georg Donner](https://github.com/georgdonner),
 [Juliane Fink](https://github.com/SyJuly),
 Franz Wegner,
-[Christian Westphal](https://github.com/Ch-W3st)
+[Christian Westphal](https://github.com/chwestphal)
